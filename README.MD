@@ -3,7 +3,6 @@
 # Crowd Management Simulation System – FIFA World Cup 2034 KSA
 
 **هاكاثون صناع – Mega Future**
-**الفريق:** [اسمك]، ريماس، لمياء، لانا
 
 -----
 
